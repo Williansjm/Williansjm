@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+ About me
+
+Hello, and welcome to my GitHub profile! My name is Willians Mendoza and I am a self-motivated software developer with a deep passion for coding and problem-solving.
+
 <!--
 **Williansjm/Williansjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
